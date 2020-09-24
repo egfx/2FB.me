@@ -8,6 +8,9 @@
 
 # Share to Facebook
   
+<p align="center">
+ 	⬚
+</p>
 
 ## License
 This Facebook extension is released under the [MIT License](https://opensource.org/licenses/MIT).
