@@ -1,6 +1,14 @@
 <html>
   <head>
     <META http-equiv="refresh" content="0;URL=/index.html">
+      <style>
+          .code {
+            font-size: 200px;
+            background: url(https://i.imgur.com/Msq4pZN.jpg);
+            background-repeat: no-repeat;
+            background-position: center 100px;
+          }
+      </style>
   </head>
 </html>
 
@@ -8,7 +16,7 @@
 
 # Share to Facebook
   
-<p align="center">
+<p align="center" class="code">
  	⬚
 </p>
 
