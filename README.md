@@ -1,16 +1,17 @@
 <html>
   <head>
     <META http-equiv="refresh" content="0;URL=/index.html">
-      <style>
-          .code {
-            font-size: 200px;
-            background: url(https://i.imgur.com/Msq4pZN.jpg);
-            background-repeat: no-repeat;
-            background-position: center 100px;
-          }
-      </style>
   </head>
 </html>
+  
+<style>
+  .code {
+    font-size: 200px;
+    background: url(https://i.imgur.com/Msq4pZN.jpg);
+    background-repeat: no-repeat;
+    background-position: center 100px;
+  }
+</style>
 
 ![Share to Facebook!](https://i.imgur.com/Msq4pZN.jpg)  ▼
 
