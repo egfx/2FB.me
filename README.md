@@ -8,7 +8,7 @@
 
 # Share to Facebook
   
-<p align="center" style="font-size: 200px;background: url(https://i.imgur.com/Msq4pZN.jpg);background-repeat: no-repeat;background-position: center 100px;">
+<p align="center">
  	⬚
 </p>
 
