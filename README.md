@@ -8,7 +8,7 @@
 
 # Share to Facebook
   
-<p align="center">
+<p align="center" style="font-size:99px;">
  	⬚
 </p>
 
