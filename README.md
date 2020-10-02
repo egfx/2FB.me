@@ -9,6 +9,7 @@
 # Share to Facebook
   
 <h1 align="center">
+  <input type="hidden" id="input-url" value="Copied!">
   copy this box ›
  	⬚
 </h1>
