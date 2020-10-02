@@ -8,9 +8,9 @@
 
 # Share to Facebook
   
-<p align="center" style="font-size:99px;">
+<h4 align="center">
  	⬚
-</p>
+</h4>
 
 ## License
 This Facebook extension is released under the [MIT License](https://opensource.org/licenses/MIT).
